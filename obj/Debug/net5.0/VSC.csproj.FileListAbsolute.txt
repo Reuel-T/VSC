@@ -1,0 +1,16 @@
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC.deps.json
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC.runtimeconfig.json
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC.runtimeconfig.dev.json
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC.dll
+/home/reuel/Documents/VSC/bin/Debug/net5.0/ref/VSC.dll
+/home/reuel/Documents/VSC/bin/Debug/net5.0/VSC.pdb
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.csprojAssemblyReference.cache
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.GeneratedMSBuildEditorConfig.editorconfig
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.AssemblyInfoInputs.cache
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.AssemblyInfo.cs
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.csproj.CoreCompileInputs.cache
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.dll
+/home/reuel/Documents/VSC/obj/Debug/net5.0/ref/VSC.dll
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.pdb
+/home/reuel/Documents/VSC/obj/Debug/net5.0/VSC.genruntimeconfig.cache
